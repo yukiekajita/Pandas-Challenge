@@ -48,7 +48,7 @@ My final report included each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-  ![image1](PyCitySchools/images/5.png)
+  ![image1](PyCitySchools/images/top.png)
 
 ### Bottom Performing Schools (By % Overall Passing)
 
@@ -60,11 +60,13 @@ My final report included each of the following:
 
 * Created a table that listed the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+  ![image1](PyCitySchools/images/9.png)
+
 ### Reading Scores by Grade
 
 * Created a table that lised the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-  ![image1](PyCitySchools/images/9.png)
+  ![image1](PyCitySchools/images/reading.png)
 
 ### Scores by School Spending
 
