@@ -56,11 +56,11 @@ My final report included each of the following:
 
   ![image1](PyCitySchools/images/6.png)
 
-### Math Scores by Grade\*\*
+### Math Scores by Grade
 
 * Created a table that listed the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-  
+  ![image1](PyCitySchools/images/math.png)
 
 ### Reading Scores by Grade
 
