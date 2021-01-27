@@ -60,7 +60,7 @@ My final report included each of the following:
 
 * Created a table that listed the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-  ![image1](PyCitySchools/images/9.png)
+  
 
 ### Reading Scores by Grade
 
@@ -88,5 +88,7 @@ My final report included each of the following:
 ### Scores by School Type
 
 * Repeated the above breakdown, but this time grouped schools based on school type (Charter vs. District).
+
+  ![image1](PyCitySchools/images/9.png)
 
   ![image1](PyCitySchools/images/10.png)
