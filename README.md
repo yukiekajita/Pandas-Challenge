@@ -31,6 +31,8 @@ My final report included each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![image2](PyCitySchools/images/4.png)
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -45,10 +47,14 @@ My final report included each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![image1](PyCitySchools/images/5.png)
 
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Created a table that highlighted the bottom 5 performing schools based on % Overall Passing. Included all of the same metrics as above.
+
+  ![image1](PyCitySchools/images/6.png)
 
 ### Math Scores by Grade\*\*
 
@@ -58,6 +64,8 @@ My final report included each of the following:
 
 * Created a table that lised the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+  ![image1](PyCitySchools/images/9.png)
+
 ### Scores by School Spending
 
 * Created a table that broke down school performances based on average Spending Ranges (Per Student). Used 4 reasonable bins to group school spending. Included in the table each of the following:
@@ -66,11 +74,17 @@ My final report included each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+  
+  ![image1](PyCitySchools/images/7.png)
 
 ### Scores by School Size
 
 * Repeated the above breakdown, but this time grouped schools based on a reasonable approximation of school size (Small, Medium, Large).
 
+  ![image1](PyCitySchools/images/8.png)
+
 ### Scores by School Type
 
 * Repeated the above breakdown, but this time grouped schools based on school type (Charter vs. District).
+
+  ![image1](PyCitySchools/images/10.png)
