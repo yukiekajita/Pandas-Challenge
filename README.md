@@ -16,7 +16,7 @@ My final report included each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-  ![image1](images/3.png)
+  ![image1](PyCitySchools/images/3.png)
 
 ### School Summary
 
